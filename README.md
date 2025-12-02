@@ -40,7 +40,7 @@ A React + TypeScript application using TanStack Query to display Rick and Morty 
 - TanStack Query  
 - React Router  
 - Tailwind CSS
-- 
+  
 ## API Endpoints
 
 - Characters: `https://rickandmortyapi.com/api/character`
