@@ -32,7 +32,15 @@ A React + TypeScript application using TanStack Query to display Rick and Morty 
 - ⏳ Routing between pages
 - ⏳ Clean architecture with proper types
 - ⏳ API handling with TanStack Query
+- 🎨 Styled with Tailwind CSS
 
+## Tech Stack
+
+- React + TypeScript  
+- TanStack Query  
+- React Router  
+- Tailwind CSS
+- 
 ## API Endpoints
 
 - Characters: `https://rickandmortyapi.com/api/character`
