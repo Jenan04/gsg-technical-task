@@ -71,4 +71,5 @@ A React + TypeScript application using TanStack Query to display Rick and Morty 
     # or yarn dev
     ```
    
-  
+  ## Live Demo
+You can check the live version of the app here: [Rick and Morty App](https://rickandmorty-app.onrender.com)
